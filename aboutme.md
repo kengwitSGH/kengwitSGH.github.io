@@ -4,6 +4,8 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
+$h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$
+
 My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
